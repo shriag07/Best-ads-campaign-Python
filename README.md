@@ -1,1 +1,2 @@
 # Best-ads-campaign-Python
+### Case Study:-You've just joined Podha as a Data Analyst. In your first team meeting, the company's founder explains: "Due to a crunch of funds, we've decided to stick to just one marketing campaign to optimize our budget and increase our runway.Your mission is to identify the most effective campaign and determine the best acquisition strategies to maximize customer acquisition and conversion rates.
